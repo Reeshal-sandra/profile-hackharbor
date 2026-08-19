@@ -8,7 +8,7 @@ A clean, modern, and responsive developer profile card built using HTML5 and CSS
 - **Custom Typography:** Integrated Google Fonts (`Poppins`) for a clean aesthetic.
 - **Interactive Badges & Buttons:** Smooth `:hover` transitions and hover effects on skill badges and action links.
 - **Status Indicator:** Live availability indicator on the profile avatar.
-- **Quick Links:** Direct buttons for Resume, Email, GitHub, and LinkedIn.
+- **Quick Links:** Direct buttons for Resume, GitHub, and LinkedIn.
 
  *Tech Stack* :
 
